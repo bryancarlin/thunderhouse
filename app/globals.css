@@ -577,7 +577,10 @@ footer {
     object-fit: cover;
 }
 
-a.conlink {color: #FFFFFF;}
+a.conlink {color: #FFFFFF; text-decoration: underline;}
+
+.centered {text-align: center;}
+.light {font-weight: 300;}
 
 /* Legacy Page */
 

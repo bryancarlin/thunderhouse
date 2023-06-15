@@ -7,7 +7,7 @@ const montserrat = Montserrat({ subsets: ["latin"] });
 
 // Meta Data
 export const metadata = {
-    title: "thunderhouse | Home page",
+    title: "thunderhouse | Home",
     description: "Home page thunderhouse",
 };
 

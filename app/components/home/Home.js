@@ -115,26 +115,13 @@ const Home = () => {
                                     />
                                     <h3>How We Think</h3>
                                     <p>
-                                    Organizations face a Growth Imperative... over time, they either grow or die.  
+                                    Organizations face a Growth Imperative... over time, they either grow or die. 
+                                    &nbsp;<a class="conlink" href="/think">Read more</a> 
 
                                     </p>
                                 </div>
 
-                                <div className="process__list-item process__list-item--fade">
-                                    <img
-                                        src="/images/process-icon-2.svg"
-                                        alt="icon"
-                                    />
-                                    <h3>What We Do</h3>
-                                    <p>
-                                        Lorem ipsum dolor sit amet consectetur
-                                        adipisicing elit. Explicabo, corporis
-                                        at! Cumque asperiores esse inventore
-                                        placeat delectus eos. Incidunt
-                                        voluptates porro, optio eveniet
-                                        explicabo voluptate atque totam.
-                                    </p>
-                                </div>
+                                
 
                                 <div className="process__list-item process__list-item--fade">
                                     <img
@@ -144,6 +131,7 @@ const Home = () => {
                                     <h3>How We Work</h3>
                                     <p>
                                     ThunderHouse helps Innovators create a vision of success and identify strategic pathways to agreed-upon goals.
+                                    &nbsp;<a class="conlink" href="/work">Read more</a> 
                                     </p>
                                 </div>
 
@@ -155,24 +143,11 @@ const Home = () => {
                                     <h3>Who We Are</h3>
                                     <p>
                                     To bring innovations to fruition, ThunderHouse knows it is the quality of the people on the team and their real world experience that count. 
+                                    &nbsp;<a class="conlink" href="/who">Read more</a> 
                                     </p>
                                 </div>
 
-                                <div className="process__list-item process__list-item--fade">
-                                    <img
-                                        src="/images/process-icon-2.svg"
-                                        alt="icon"
-                                    />
-                                    <h3>Our Legacy</h3>
-                                    <p>
-                                        Lorem ipsum dolor sit amet consectetur
-                                        adipisicing elit. Explicabo, corporis
-                                        at! Cumque asperiores esse inventore
-                                        placeat delectus eos. Incidunt
-                                        voluptates porro, optio eveniet
-                                        explicabo voluptate atque totam.
-                                    </p>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>

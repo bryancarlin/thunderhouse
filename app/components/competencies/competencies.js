@@ -90,4 +90,5 @@ const Competencies = () => {
     );
 };
 
+
 export default Competencies;

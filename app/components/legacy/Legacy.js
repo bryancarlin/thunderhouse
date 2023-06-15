@@ -47,6 +47,7 @@ const Legacy = () => {
                         <div className="single__content-subhead">
                             <h3>Tracing Back To Benjamin Franklin</h3>
                             <p>
+                                
                                 ThunderHouse traces its brand heritage to the
                                 greatest of all American innovators, Benjamin
                                 Franklin. His focus was the practical

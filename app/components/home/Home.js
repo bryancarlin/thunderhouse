@@ -118,9 +118,8 @@ const Home = () => {
                                         Organizations face a Growth
                                         Imperative... over time, they either
                                         grow or die. &nbsp;
-                                        <link className="conlink" href="/think">
-                                            Read more
-                                        </link>
+                                        <Link className="conlink" href="/think">Read more</Link>
+                                       
                                     </p>
                                 </div>
 
@@ -134,9 +133,8 @@ const Home = () => {
                                         ThunderHouse helps Innovators create a
                                         vision of success and identify strategic
                                         pathways to agreed-upon goals. &nbsp;
-                                        <link className="conlink" href="/work">
-                                            Read more
-                                        </link>
+                                        <Link className="conlink" href="/work">Read more</Link> 
+                                          
                                     </p>
                                 </div>
 
@@ -151,9 +149,8 @@ const Home = () => {
                                         ThunderHouse knows it is the quality of
                                         the people on the team and their real
                                         world experience that count. &nbsp;
-                                        <link className="conlink" href="/who">
-                                            Read more
-                                        </link>
+                                        <Link className="conlink" href="/who">Read more</Link>
+                                        
                                     </p>
                                 </div>
                             </div>

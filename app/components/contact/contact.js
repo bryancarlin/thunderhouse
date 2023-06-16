@@ -45,21 +45,32 @@ const Contact = () => {
                         <h1>Contact Us</h1>
 
                         <div className="single__content-subhead">
-                            
                             <p>
-                            For additional information on ThunderHouse, our projects or business opportunities, 
-                            please contact ThunderHouse founder, Art Tauder at <a class="conlink" href="mailto:art@thunderhouse.org">art@thunderhouse.org</a> or by phone at 203-451-2699.
-                            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
+                                For additional information on ThunderHouse, our
+                                projects or business opportunities, please
+                                contact ThunderHouse founder, Art Tauder at{" "}
+                                <a
+                                    className="conlink"
+                                    href="mailto:art@thunderhouse.org"
+                                >
+                                    art@thunderhouse.org
+                                </a>{" "}
+                                or by phone at 203-451-2699.
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
                             </p>
-
-
-                            
                         </div>
-
-                       
                     </div>
-                   
                 </div>
             </div>
         </section>

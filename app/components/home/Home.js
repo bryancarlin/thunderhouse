@@ -115,13 +115,14 @@ const Home = () => {
                                     />
                                     <h3>How We Think</h3>
                                     <p>
-                                    Organizations face a Growth Imperative... over time, they either grow or die. 
-                                    &nbsp;<a class="conlink" href="/think">Read more</a> 
-
+                                        Organizations face a Growth
+                                        Imperative... over time, they either
+                                        grow or die. &nbsp;
+                                        <a className="conlink" href="/think">
+                                            Read more
+                                        </a>
                                     </p>
                                 </div>
-
-                                
 
                                 <div className="process__list-item process__list-item--fade">
                                     <img
@@ -130,8 +131,12 @@ const Home = () => {
                                     />
                                     <h3>How We Work</h3>
                                     <p>
-                                    ThunderHouse helps Innovators create a vision of success and identify strategic pathways to agreed-upon goals.
-                                    &nbsp;<a class="conlink" href="/work">Read more</a> 
+                                        ThunderHouse helps Innovators create a
+                                        vision of success and identify strategic
+                                        pathways to agreed-upon goals. &nbsp;
+                                        <a className="conlink" href="/work">
+                                            Read more
+                                        </a>
                                     </p>
                                 </div>
 
@@ -142,12 +147,15 @@ const Home = () => {
                                     />
                                     <h3>Who We Are</h3>
                                     <p>
-                                    To bring innovations to fruition, ThunderHouse knows it is the quality of the people on the team and their real world experience that count. 
-                                    &nbsp;<a class="conlink" href="/who">Read more</a> 
+                                        To bring innovations to fruition,
+                                        ThunderHouse knows it is the quality of
+                                        the people on the team and their real
+                                        world experience that count. &nbsp;
+                                        <a className="conlink" href="/who">
+                                            Read more
+                                        </a>
                                     </p>
                                 </div>
-
-                                
                             </div>
                         </div>
                     </div>

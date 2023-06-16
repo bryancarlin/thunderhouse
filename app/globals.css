@@ -493,6 +493,7 @@ footer {
 .other__hero-area {
     position: relative;
     overflow: hidden;
+    opacity: 0;
 }
 
 .other__hero-bg {
@@ -577,10 +578,17 @@ footer {
     object-fit: cover;
 }
 
-a.conlink {color: #FFFFFF; text-decoration: underline;}
+a.conlink {
+    color: #ffffff;
+    text-decoration: underline;
+}
 
-.centered {text-align: center;}
-.light {font-weight: 300;}
+.centered {
+    text-align: center;
+}
+.light {
+    font-weight: 300;
+}
 
 /* Legacy Page */
 

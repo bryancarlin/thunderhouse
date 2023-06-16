@@ -1,37 +1,7 @@
-"use client";
-
-import React, { useEffect } from "react";
+import React from "react";
 import Blog from "./Blog";
-import { gsap } from "gsap";
-import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import { usePathname } from "next/navigation";
-
-gsap.registerPlugin(ScrollTrigger);
 
 const Footer = () => {
-    const pathname = usePathname();
-
-    useEffect(() => {
-        const projectArea = document.querySelectorAll(
-            ".projects__area .section__heading, .projects"
-        );
-
-        projectArea.forEach((project) => {
-            gsap.from(project, {
-                opacity: 0,
-                duration: 0.8,
-                filter: "blur(6px)",
-                ease: "power2.out",
-                stagger: 0.4,
-                scrollTrigger: {
-                    trigger: project,
-                    start: "top 80%",
-                    toggleActions: "play none none none",
-                },
-            });
-        });
-    }, [pathname]);
-
     return (
         <>
             {/* Projects Area */}

@@ -118,9 +118,9 @@ const Home = () => {
                                         Organizations face a Growth
                                         Imperative... over time, they either
                                         grow or die. &nbsp;
-                                        <a className="conlink" href="/think">
+                                        <link className="conlink" href="/think">
                                             Read more
-                                        </a>
+                                        </link>
                                     </p>
                                 </div>
 
@@ -134,9 +134,9 @@ const Home = () => {
                                         ThunderHouse helps Innovators create a
                                         vision of success and identify strategic
                                         pathways to agreed-upon goals. &nbsp;
-                                        <a className="conlink" href="/work">
+                                        <link className="conlink" href="/work">
                                             Read more
-                                        </a>
+                                        </link>
                                     </p>
                                 </div>
 
@@ -151,9 +151,9 @@ const Home = () => {
                                         ThunderHouse knows it is the quality of
                                         the people on the team and their real
                                         world experience that count. &nbsp;
-                                        <a className="conlink" href="/who">
+                                        <link className="conlink" href="/who">
                                             Read more
-                                        </a>
+                                        </link>
                                     </p>
                                 </div>
                             </div>

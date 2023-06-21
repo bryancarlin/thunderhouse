@@ -515,22 +515,14 @@ footer {
 }
 
 .other__white-bg {
-    background-image: linear-gradient(
-            134deg,
-            rgba(14, 14, 14, 0.7),
-            rgba(14, 14, 14, 0.4) 17%,
-            rgba(14, 14, 14, 0.25) 50%
-        ),
-        url(../public/images/other-white-gradient.svg);
-
-    width: 47%;
-    height: 1000px;
-    left: 0;
+    background-image: url(../public/images/other-white-gradient.svg);
+    width: 840px;
+    height: 654px;
+    left: -5%;
     top: auto;
     bottom: 0%;
-    background-size: cover;
-    opacity: 0.8;
-    z-index: -1;
+    background-size: contain;
+    z-index: 6;
 }
 
 .other__hero {
@@ -775,6 +767,10 @@ a.conlink {
     .process__area {
         padding-top: 150px;
     }
+
+    .other__white-bg {
+        left: -30%;
+    }
 }
 
 @media (max-width: 1199.98px) {
@@ -885,11 +881,23 @@ a.conlink {
     }
 
     .other__white-bg {
-        width: 80%;
+        width: 100%;
     }
 
     .think__item {
         flex-direction: column;
+    }
+
+    .think__item-content {
+        padding-top: 0;
+    }
+
+    .think__item {
+        gap: 0;
+    }
+
+    .think__items {
+        margin-top: 30px;
     }
 }
 
@@ -1031,6 +1039,12 @@ a.conlink {
 
     .qoutes-box {
         margin-top: 30px;
+    }
+
+    .think__items {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
     }
 }
 /* Responsive Code */

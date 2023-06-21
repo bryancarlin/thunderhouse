@@ -45,92 +45,105 @@ const Legacy = () => {
                     <div className="single__content other__fade-in">
                         <h1>The Thunderhouse Legacy</h1>
 
-                        <div className="single__content-subhead">
-                            <h3>Tracing Back To Benjamin Franklin</h3>
-                            <p>
-                                ThunderHouse traces its brand heritage to the
-                                greatest of all American innovators, Benjamin
-                                Franklin. His focus was the practical
-                                application of science to solving everyday
-                                problems and making peoples' lives better.
-                                Franklin created the postal system, the lending
-                                library, the first fire department, the Franklin
-                                stove, bifocals and most relevant to
-                                ThunderHouse, he discovered the connection
-                                between lightning and electricity.
-                            </p>
+                        <div className="think__items">
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>Tracing Back To Benjamin Franklin</h3>
+                                    <p>
+                                    ThunderHouse traces its brand heritage to the
+                                    greatest of all American innovators, Benjamin
+                                    Franklin. His focus was the practical
+                                    application of science to solving everyday
+                                    problems and making peoples' lives better.
+                                    Franklin created the postal system, the lending
+                                    library, the first fire department, the Franklin
+                                    stove, bifocals and most relevant to
+                                    ThunderHouse, he discovered the connection
+                                    between lightning and electricity.
+                                    </p>
+                                </div>
 
-                            <h3>
-                                Invented the Lightning Rod… But No One was
-                                Buying
-                            </h3>
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-2.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
+                            {/* Single Item */}
 
-                            <p>
-                                In the mid-1700s, Franklin applied what he
-                                learned from his kite-flying experiments to the
-                                invention of the lightning rod, to prevent the
-                                destruction of buildings and lives. But as with
-                                many innovations, before and after, Franklin
-                                could not sell the concept: lightning was
-                                considered a divine act and interfering with it
-                                was sacrilege.
-                            </p>
-                        </div>
+                            {/* Single Item */}
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>Invented the Lightning Rod… But No One Was Buying</h3>
+                                    <p>
+                                    In the mid-1700s, Franklin applied what he
+                                    learned from his kite-flying experiments to the
+                                    invention of the lightning rod, to prevent the
+                                    destruction of buildings and lives. But as with
+                                    many innovations, before and after, Franklin
+                                    could not sell the concept: lightning was
+                                    considered a divine act and interfering with it
+                                    was sacrilege.
+                                    </p>
+                                </div>
 
-                        <div className="single__content-image">
-                            <img src="/images/hero-3.webp" alt="content" />
-                        </div>
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-3.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
+                        
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>The First Marketing "Demo"</h3>
+                                    <p>
+                                    Franklin was undeterred.  He built a ThunderHouse, a brilliant "demo" to communicate the benefit of his lightning rod and break the barriers to its acceptance. 
+                                    The "ThunderHouse" - a three-dimensional wooden model house, equipped with a lightning rod, hinged walls and a detachable roof. Inside, Franklin placed a small charge of gunpowder. 
+                                    </p>
+                                    <p>
+                                        When an electric charge was applied to the lightning rod, electricity would pass safely through the rod and grounding wire to the earth with no effect. However, when a wooden block was positioned to break the grounding circuit, a spark across the block would ignite the gunpowder with convincing and entertaining effects - the roof and walls literally blew off! 
 
-                        <div className="single__content-subhead">
-                            <h3>Tracing Back To Benjamin Franklin</h3>
+                                    </p>
+                                </div>
 
-                            <p>
-                                Franklin was undeterred. He built a
-                                ThunderHouse, a brilliant "demo" to communicate
-                                the benefit of his lightning rod and break the
-                                barriers to its acceptance. The "ThunderHouse" -
-                                a three-dimensional wooden model house, equipped
-                                with a lightning rod, hinged walls and a
-                                detachable roof. Inside, Franklin placed a small
-                                charge of gunpowder.
-                            </p>
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-1.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
 
-                            <p>
-                                When an electric charge was applied to the
-                                lightning rod, electricity would pass safely
-                                through the rod and grounding wire to the earth
-                                with no effect. However, when a wooden block was
-                                positioned to break the grounding circuit, a
-                                spark across the block would ignite the
-                                gunpowder with convincing and entertaining
-                                effects - the roof and walls literally blew off!
-                            </p>
-                        </div>
-                    </div>
-                    {/* Single Content */}
+                            <div className="qoutes-box glossy__bg">
+                                <h2>
+                                The ThunderHouse Mission
+                                </h2>
 
-                    {/* Single Content */}
-                    <div className="single__content other__fade-in">
-                        <h2>The ThunderHouse Mission</h2>
-
-                        <div className="single__content-subhead">
-                            <p>
-                                The barriers to bringing innovations to fruition
+                                <p>The barriers to bringing innovations to fruition
                                 are even greater and more complex today than
                                 they were in Franklin's day. And today's
                                 ThunderHouse leads innovators through these
                                 barriers to success. ThunderHouse itself is an
                                 innovation in its transformation in service
                                 offering from Marketing Communications (MarCom)
-                                to Organizational Communications (OrgCom).
-                            </p>
+                                to Organizational Communications (OrgCom).</p>
+                            </div>
+                        
                         </div>
+                        
 
-                        <div className="single__content-image">
-                            <img src="/images/hero-2.webp" alt="content" />
-                        </div>
+                        
+
+                            
+
+
                     </div>
-                    {/* Single Content */}
+                   
+                    
+
                 </div>
             </div>
         </section>

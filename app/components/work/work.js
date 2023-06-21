@@ -60,34 +60,46 @@ const Work = () => {
                                 <i>faster, more cost effective track</i>.{" "}
                             </p>
                         </div>
+                        
 
-                        <div className="single__content-image">
-                            <img src="/images/hero-3.webp" alt="content" />
-                        </div>
+                        <div className="think__items">
+                            {/* Single Item */}
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>The Three Dimensional Approach</h3>
+                                    <p>
+                                        ThunderHouse views the innovator's challenge in
+                                    three dimensionsl:{" "}
+                                    <b>
+                                        The Product, The Audience and The
+                                        Marketplace. &nbsp;
+                                    </b>
+                                    With a clear vision of success in hand,
+                                    ThunderHouse helps Clients formulate
+                                    positionings, strategies and action plans. It
+                                    uses proven, visually-engaging tools to
+                                    facilitate collaboration, to sort through a
+                                    multiplicity of possibilities and expedite
+                                    decision making.{" "}
+                                    </p>
+                                </div>
 
-                        <div className="single__content-subhead">
-                            <h3>The Three Dimensional Approach</h3>
-                            <p>
-                                ThunderHouse views the innovator's challenge in
-                                three dimensionsl:{" "}
-                                <b>
-                                    The Product, The Audience and The
-                                    Marketplace.
-                                </b>
-                                With a clear vision of success in hand,
-                                ThunderHouse helps Clients formulate
-                                positionings, strategies and action plans. It
-                                uses proven, visually-engaging tools to
-                                facilitate collaboration, to sort through a
-                                multiplicity of possibilities and expedite
-                                decision making.{" "}
-                            </p>
-                        </div>
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-1.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
+                            {/* Single Item */}
 
-                        <div className="single__content-subhead">
-                            <h3>"Best of Class" Resourcing</h3>
-                            <p>
-                                ThunderHouse will not be re-inventing resources
+
+                            {/* Single Item */}
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>"Best of Class" Resourcing</h3>
+                                    <p>
+                                    ThunderHouse will not be re-inventing resources
                                 that already exist, but rather recognizing and
                                 securing "best-of-class" talent, with
                                 market-specific experience, whether the talent
@@ -99,13 +111,24 @@ const Work = () => {
                                 ThunderHouse is experienced in identifying the
                                 best talent, negotiating terms of engagement,
                                 and most importantly facilitating collaboration.{" "}
-                            </p>
-                        </div>
+                                    </p>
+                                </div>
 
-                        <div className="single__content-subhead">
-                            <h3>Compensation and Rewards for Success</h3>
-                            <p>
-                                ThunderHouse resources will be compensated at
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-2.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
+                            {/* Single Item */}
+
+                            {/* Single Item */}
+                            <div className="think__item">
+                                <div className="think__item-content single__content-subhead">
+                                    <h3>Compensation and Rewards for Success</h3>
+                                    <p>
+                                        ThunderHouse resources will be compensated at
                                 market rates for their services to develop
                                 strategies and implement Action Plans. However,
                                 ThunderHouse principals will be rewarded
@@ -115,8 +138,20 @@ const Work = () => {
                                 innovation-specific basis. "Best-of-Class"
                                 outside resources will be compensated fairly at
                                 market rates, without any ThunderHouse markup.{" "}
-                            </p>
+                                    </p>
+                                </div>
+
+                                <div className="think__item-image">
+                                    <img
+                                        src="/images/think-3.png"
+                                        alt="Think"
+                                    />
+                                </div>
+                            </div>
+                            {/* Single Item */}
                         </div>
+
+                       
                     </div>
                 </div>
             </div>

@@ -724,11 +724,13 @@ a.conlink {
 }
 
 .qoutes-box {
-    padding: 45px 85px;
+    padding: 45px 45px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .qoutes-box h2 {
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .qoutes-box p {

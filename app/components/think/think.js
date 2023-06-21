@@ -92,6 +92,15 @@ const Think = () => {
                             </div>
                             {/* Single Item */}
 
+                            <div className="qoutes-box glossy__bg">
+                                <h2>
+                                    “Our problem is not that we aim too high and
+                                    miss, But we aim too low and hit.”
+                                </h2>
+
+                                <p>- Aristotle 384-322 BC</p>
+                            </div>
+
                             {/* Single Item */}
                             <div className="think__item">
                                 <div className="think__item-content single__content-subhead">
@@ -147,14 +156,7 @@ const Think = () => {
                             {/* Single Item */}
                         </div>
 
-                        <div className="qoutes-box glossy__bg">
-                            <h2>
-                                “Our problem is not that we aim too high and
-                                miss, But we aim too low and hit.”
-                            </h2>
-
-                            <p>- Aristotle 384-322 BC</p>
-                        </div>
+                        
                     </div>
                     {/* Single Content */}
                 </div>

@@ -492,7 +492,6 @@ footer {
 /* Legacy Page */
 .other__hero-area {
     position: relative;
-    overflow: hidden;
     opacity: 0;
 }
 
@@ -501,18 +500,36 @@ footer {
     top: 0;
     right: 0;
     width: 100%;
-    height: 1300px;
+    height: 1000px;
     background-image: linear-gradient(
             134deg,
             rgba(14, 14, 14, 0.7),
             rgba(14, 14, 14, 0.4) 17%,
             rgba(14, 14, 14, 0.25) 50%
         ),
-        url(../public/images/other-hero-gradient.svg);
+        url(../public/images/other-hero-gradient.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top right;
     z-index: 5;
+}
+
+.other__white-bg {
+    background-image: linear-gradient(
+            134deg,
+            rgba(14, 14, 14, 0.7),
+            rgba(14, 14, 14, 0.4) 17%,
+            rgba(14, 14, 14, 0.25) 50%
+        ),
+        url(../public/images/other-white-gradient.svg);
+
+    width: 50%;
+    height: 1270px;
+    left: 0;
+    top: 50%;
+    background-size: cover;
+    opacity: 0.8;
+    z-index: -1;
 }
 
 .other__hero {
@@ -591,6 +608,132 @@ a.conlink {
 }
 
 /* Legacy Page */
+
+/* Competencies Page */
+
+.features__cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 50px;
+    margin-top: 50px;
+}
+
+.features__card {
+    padding: 40px 45px;
+    height: 344px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 0 !important;
+}
+
+.glossy__bg {
+    background: linear-gradient(
+        103.37deg,
+        rgba(217, 217, 217, 0.2) 1.3%,
+        rgba(217, 217, 217, 0.1) 99.59%
+    );
+    border: 0.5px solid #8f8f8f;
+    box-shadow: 3px 3px 25px 3px rgba(65, 95, 93, 0.25);
+    backdrop-filter: blur(15px);
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
+.glossy__heading {
+    padding: 25px;
+    margin-top: 30px;
+    max-width: 660px;
+    width: 100%;
+}
+
+.glossy__heading p {
+    font-weight: 500;
+}
+
+/* Competencies Page */
+
+/* Who Page */
+.teams {
+    margin-top: 50px;
+}
+
+.team {
+    display: flex;
+    align-items: flex-start;
+    padding: 50px 0;
+    border-bottom: 1px solid #ffffff;
+}
+
+.team:first-of-type {
+    padding-top: 0;
+}
+
+.team:last-of-type {
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+.team__heading {
+    flex: 0.5;
+}
+
+.team__details {
+    flex: 0.5;
+}
+
+.team__details p {
+    margin-bottom: 20px;
+}
+
+.team__details p:last-of-type {
+    margin-bottom: 0;
+}
+
+.team__heading h4 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.team__heading h5 {
+    font-size: 22px;
+    font-weight: 400;
+}
+
+/* Who Page */
+
+/* Think Page */
+
+.think__item {
+    display: flex;
+    gap: 30px;
+}
+
+.think__item-content {
+    flex: 0.5;
+    padding-top: 25px;
+}
+
+.think__item-image {
+    flex: 0.5;
+}
+
+.qoutes-box {
+    padding: 45px 85px;
+}
+
+.qoutes-box h2 {
+    font-size: 36px;
+}
+
+.qoutes-box p {
+    font-size: 20px;
+}
+
+/* Think Page */
 
 /* Responsive Code */
 @media (max-width: 1549.98px) {

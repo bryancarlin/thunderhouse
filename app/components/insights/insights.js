@@ -14,7 +14,7 @@ const Insights = () => {
 
         innerContents.forEach((content) => {
             const innerElements = content.querySelectorAll(
-                "h1, h2, h3, p, .single__content-image"
+                "h1, h2, h3, h4, h5, p, .single__content-image, .think__item-image"
             );
 
             innerElements.forEach((element) => {
@@ -37,6 +37,7 @@ const Insights = () => {
     return (
         <section className="other__hero-area">
             <div className="other__hero-bg"></div>
+            <div className="other__hero-bg other__white-bg"></div>
 
             <div className="container">
                 <div className="other__hero">
@@ -45,20 +46,23 @@ const Insights = () => {
                         <h1>Insights</h1>
 
                         <div className="single__content-subhead">
-                            
                             <p>
-                            lorem ipsum.
-                            <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
+                                lorem ipsum.
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
+                                <br />
                             </p>
-
-
-                            
                         </div>
-
-                       
                     </div>
-                   
                 </div>
             </div>
         </section>

@@ -47,7 +47,7 @@ const Insights = () => {
 
                         <div className="single__content-subhead">
                             <p>
-                                lorem ipsum.
+                                Coming soon.
                                 <br />
                                 <br />
                                 <br />
@@ -55,11 +55,7 @@ const Insights = () => {
                                 <br />
                                 <br />
                                 <br />
-                                <br />
-                                <br />
-                                <br />
-                                <br />
-                                <br />
+                                
                             </p>
                         </div>
                     </div>

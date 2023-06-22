@@ -593,6 +593,15 @@ a.conlink {
     text-decoration: underline;
 }
 
+a.conlink2 {
+    color: #ffffff;
+    text-decoration:none;
+}
+
+.topPad {
+    padding-top: 10px;
+}
+
 .centered {
     text-align: center;
 }
@@ -687,9 +696,9 @@ a.conlink {
 }
 
 .team__heading h4 {
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
 }
 
 .team__heading h5 {

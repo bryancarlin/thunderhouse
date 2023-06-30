@@ -57,8 +57,7 @@ const Home = () => {
                                 <span> Faster & More Cost Effectively.</span>
                             </h1>
                             <p>
-                                Thunderhouse LLC is a Venture Group dedicated to
-                                bringing significant innovations to fruition.
+                                Insight: <a className="conlink" href="/insights">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a>
                             </p>
                         </div>
                     </div>

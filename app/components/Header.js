@@ -27,7 +27,7 @@ const Header = () => {
                         href="/"
                         className="nav__logo"
                     >
-                        <img src="/images/logo.png" alt="logo" />
+                        <img src="/images/logo.png" alt="logo" class="logo" />
                     </Link>
 
                     <button

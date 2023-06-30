@@ -47,11 +47,12 @@ const Competencies = () => {
 
                         <div className="single__content-subhead">
                             <h3>
-                                What does it take to bring innovation fruition?
+                            Communications is the central core competence of
+                                ThunderHouse
                             </h3>
+                             
                             <p>
-                                Communications is the central core competence of
-                                ThunderHouse. An innovation cannot move forward
+                                An innovation cannot move forward
                                 unless the innovator effectively communicates
                                 its value to the many constituent audiences in
                                 the pathway to fruition. Narrations drive the

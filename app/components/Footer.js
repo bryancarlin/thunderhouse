@@ -14,19 +14,19 @@ const Footer = () => {
 
                     <div className="projects">
                         <Blog
-                            title="MarCom Spectrum"
+                            title="PeerSourcing"
                             imgUrl="/images/project-1.jpg"
                             imgAlt="MarCom Spectrum"
                         />
 
                         <Blog
-                            title="NextGen MarCom"
+                            title="Code: Blue"
                             imgUrl="/images/project-2.jpg"
                             imgAlt="NextGen MarCom"
                         />
 
                         <Blog
-                            title="Marketing Communications Technologies"
+                            title="Politics & AI"
                             imgUrl="/images/project-3.jpg"
                             imgAlt="Marketing Communications"
                         />

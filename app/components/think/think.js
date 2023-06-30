@@ -54,7 +54,7 @@ const Think = () => {
                             </p>
                         </div>
 
-                        <div className="glossy__heading glossy__bg">
+                        <div className="glossy__heading glossy__bg_quote">
                             <p>
                                 Innovation (ɪnəˈveɪʃən/) n. A better way to
                                 satisfy needs and wants
@@ -92,7 +92,7 @@ const Think = () => {
                             </div>
                             {/* Single Item */}
 
-                            <div className="qoutes-box glossy__bg">
+                            <div className="qoutes-box glossy__bg_quote">
                                 <h2>
                                     “Our problem is not that we aim too high and
                                     miss, But we aim too low and hit.”

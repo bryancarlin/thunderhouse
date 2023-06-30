@@ -91,6 +91,15 @@ img {
     display: block;
 }
 
+img.logo {
+    width: unset;
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
 .container {
     max-width: 1060px;
     width: 100%;
@@ -327,7 +336,7 @@ footer {
 
 .hero__content p {
     font-size: 22px;
-    display: none;
+   
 }
 
 .hero__images-wrapper {
@@ -643,6 +652,23 @@ a.conlink2 {
     -ms-border-radius: 18px;
     -o-border-radius: 18px;
 }
+
+.glossy__bg_quote {
+    background: linear-gradient(
+        2deg,
+        #20a5e6 1.3%,
+        rgba(217, 217, 217, 0.1) 99.59%
+    );
+    border: 0.5px solid #8f8f8f;
+    box-shadow: 3px 3px 25px 3px rgba(65, 95, 93, 0.25);
+    backdrop-filter: blur(15px);
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
 
 .glossy__heading {
     padding: 25px;

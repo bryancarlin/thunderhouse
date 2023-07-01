@@ -20,9 +20,21 @@ const Preloader = ({ children }) => {
     };
   }, [pageReady]);
 
-  window.addEventListener("load", () => {
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      window.addEventListener("load", handlePageLoad);
+    }
+
+    return () => {
+      if (typeof window !== "undefined") {
+        window.removeEventListener("load", handlePageLoad);
+      }
+    };
+  }, []);
+
+  const handlePageLoad = () => {
     setPageReady(true);
-  });
+  };
 
   if (loading) {
     return (

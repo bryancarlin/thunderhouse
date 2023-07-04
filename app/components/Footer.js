@@ -15,19 +15,19 @@ const Footer = () => {
                     <div className="projects">
                         <Blog
                             title="CodeBlue"
-                            imgUrl="/images/CodeBlue.png"
+                            imgUrl="/images/cb.png"
                             imgAlt="CodeBlue"
                         />
 
                         <Blog
                             title="OrgCom"
-                            imgUrl="/images/project-2.jpg"
+                            imgUrl="/images/oc.png"
                             imgAlt="OrgCom"
                         />
 
                         <Blog
                             title="PeerSourcing"
-                            imgUrl="/images/project-3.jpg"
+                            imgUrl="/images/ps.png"
                             imgAlt="PeerSourcing"
                         />
                     </div>

@@ -63,9 +63,9 @@ const Legacy = () => {
                                     </p>
                                 </div>
 
-                                <div className="think__item-imageRD">
+                                <div className="think__item-image">
                                     <img
-                                        src="/images/franklin.jpg"
+                                        src="/images/think-2.png"
                                         alt="Benjamin Franklin"
                                     />
                                 </div>

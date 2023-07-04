@@ -772,6 +772,11 @@ a.conlink2 {
   flex: 0.5;
 }
 
+.think__item-imageRD {
+  flex: 0.5;
+  border-radius: 5%;
+}
+
 .qoutes-box {
   padding: 45px 45px;
   margin-bottom: 20px;

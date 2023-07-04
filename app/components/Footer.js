@@ -9,26 +9,26 @@ const Footer = () => {
             <section className="projects__area">
                 <div className="container">
                     <div className="section__heading">
-                        <h2>Industries & Projects</h2>
+                        <h2>Initiatives</h2>
                     </div>
 
                     <div className="projects">
                         <Blog
-                            title="PeerSourcing"
-                            imgUrl="/images/project-1.jpg"
-                            imgAlt="MarCom Spectrum"
+                            title="CodeBlue"
+                            imgUrl="/images/CodeBlue.png"
+                            imgAlt="CodeBlue"
                         />
 
                         <Blog
-                            title="Code: Blue"
+                            title="OrgCom"
                             imgUrl="/images/project-2.jpg"
-                            imgAlt="NextGen MarCom"
+                            imgAlt="OrgCom"
                         />
 
                         <Blog
-                            title="Politics & AI"
+                            title="PeerSourcing"
                             imgUrl="/images/project-3.jpg"
-                            imgAlt="Marketing Communications"
+                            imgAlt="PeerSourcing"
                         />
                     </div>
                 </div>

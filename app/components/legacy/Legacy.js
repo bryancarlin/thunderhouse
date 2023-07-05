@@ -62,7 +62,7 @@ const Legacy = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-2.jpg" alt="Benjamin Franklin" />
+                  <img src="/images/franklin.jpg" alt="Benjamin Franklin" />
                 </div>
               </div>
               {/* Single Item */}
@@ -82,7 +82,7 @@ const Legacy = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-3.jpg" alt="Think" />
+                  <img src="/images/lightning.jpg" alt="Lightning" />
                 </div>
               </div>
 
@@ -109,7 +109,7 @@ const Legacy = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-1.jpg" alt="Think" />
+                  <img src="/images/thunder.jpg" alt="Thunderhouse demo" />
                 </div>
               </div>
 

@@ -3,40 +3,19 @@
 import React, { useEffect, useState } from "react";
 
 const Preloader = ({ children }) => {
-  const [loading, setLoading] = useState(true);
-  const [pageReady, setPageReady] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const preloadDelay = 3000;
-
     const timer = setTimeout(() => {
-      if (pageReady && loading) {
-        setLoading(false);
+      if (document.readyState === "complete") {
+        setIsLoading(false);
       }
-    }, preloadDelay);
+    }, 3000);
 
-    return () => {
-      clearTimeout(timer);
-    };
-  }, [pageReady]);
-
-  useEffect(() => {
-    if (typeof window !== "undefined") {
-      window.addEventListener("load", handlePageLoad);
-    }
-
-    return () => {
-      if (typeof window !== "undefined") {
-        window.removeEventListener("load", handlePageLoad);
-      }
-    };
+    return () => clearTimeout(timer);
   }, []);
 
-  const handlePageLoad = () => {
-    setPageReady(true);
-  };
-
-  if (loading) {
+  if (isLoading) {
     return (
       <div className="preloader">
         <div className="preloader__image">

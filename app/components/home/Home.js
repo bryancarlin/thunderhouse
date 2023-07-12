@@ -56,7 +56,7 @@ const Home = () => {
               </h1>
               
 
-              <div className="qoutes-box glossy__bg_quote">
+              <div className="qoutes-box glossy__bg">
                 <h3>Insight:</h3>
                 <h2>
               
@@ -64,6 +64,15 @@ const Home = () => {
                 </h2>
 
                 <p>- Pfizer CEO Albert Bourla</p>
+              </div>
+
+              <div className="qoutes-box glossy__bg_quote" id="quote-space">
+                <h3>Initiative:</h3>
+                <h2>
+              
+                <a className="conlink" href="/insights">Code Blue: Enact a Cease Fire in the Ukraine -  Sept 21, 2023!</a>
+                </h2>
+
               </div>
             </div>
           </div>

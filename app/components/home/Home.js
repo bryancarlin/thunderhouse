@@ -51,15 +51,20 @@ const Home = () => {
           <div className="hero">
             <div className="hero__content">
               <h1>
-                Bringing Significant Innovations to Fruition.
-                <span> Faster & More Cost Effectively.</span>
+                Bringing Significant Innovations to Fruition via Communications
+                <span>... Faster & More Cost Effectively.</span>
               </h1>
-              <p>
-                Insight:{" "}
-                <a className="conlink" href="/insights">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </a>
-              </p>
+              
+
+              <div className="qoutes-box glossy__bg_quote">
+                <h3>Insight:</h3>
+                <h2>
+              
+                <a className="conlink" href="/insights">"Thinking Big Makes the Impossible Possible”</a>
+                </h2>
+
+                <p>- Pfizer CEO Albert Bourla</p>
+              </div>
             </div>
           </div>
         </div>

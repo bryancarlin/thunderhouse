@@ -18,12 +18,7 @@ const Footer = () => {
                             imgUrl="/images/cb.png"
                             imgAlt="CodeBlue"
                         />
-
-                        <Blog
-                            title="OrgCom"
-                            imgUrl="/images/oc.png"
-                            imgAlt="OrgCom"
-                        />
+                        
 
                         <Blog
                             title="PeerSourcing"

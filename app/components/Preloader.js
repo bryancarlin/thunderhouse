@@ -10,7 +10,7 @@ const Preloader = ({ children }) => {
       if (document.readyState === "complete") {
         setIsLoading(false);
       }
-    }, 3000);
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -19,7 +19,7 @@ const Preloader = ({ children }) => {
     return (
       <div className="preloader">
         <div className="preloader__image">
-          <img src="/images/th-loader.gif" alt="Preloader" />
+          <img src="/images/thlogo.png" alt="Preloader" />
         </div>
       </div>
     );

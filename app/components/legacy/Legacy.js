@@ -109,7 +109,7 @@ const Legacy = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/thunder.jpg" alt="Thunderhouse demo" />
+                  <img src="/images/thundersplit.jpg" alt="Thunderhouse demo" />
                 </div>
               </div>
 

@@ -6,7 +6,7 @@ import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
-const Codeblue = () => {
+const Peersourcing = () => {
     useEffect(() => {
         const innerContents = document.querySelectorAll(".other__fade-in");
 

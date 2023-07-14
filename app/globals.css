@@ -525,6 +525,11 @@ padding-bottom: 20px;
   padding-top: 30px; 
 }
 
+#noheight {
+  height: unset;
+  overflow: hidden;
+}
+
 a.whitelink {
   color: #FFFFFF;
 }
@@ -828,6 +833,8 @@ a.conlink2 {
 .qoutes-box {
   padding: 45px 45px;
 }
+
+#shortbox {padding: 25px 45px;}
 
 .qoutes-box h2 {
   font-size: 30px;

@@ -12,19 +12,22 @@ const Footer = () => {
                         <h2>Initiatives</h2>
                     </div>
 
-                    <div className="projects">
+                    <div className="projects" >
+                        <Link href="/codeblue" class="whitelink">
                         <Blog
                             title="CodeBlue"
                             imgUrl="/images/cb.png"
                             imgAlt="CodeBlue"
                         />
+                        </Link>
                         
-
+                        <Link href="/peersourcing" class="whitelink">
                         <Blog
                             title="PeerSourcing"
                             imgUrl="/images/ps.png"
                             imgAlt="PeerSourcing"
                         />
+                        </Link>
                     </div>
                 </div>
             </section>

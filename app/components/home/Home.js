@@ -60,7 +60,7 @@ const Home = () => {
                 <h3>Insight:</h3>
                 <h2>
               
-                <a className="conlink" href="/insights">"Thinking Big Makes the Impossible Possible”</a>
+                <Link className="conlink" href="/insights">"Thinking Big Makes the Impossible Possible”</Link>
                 </h2>
 
                 <p>- Pfizer CEO Albert Bourla</p>
@@ -70,7 +70,7 @@ const Home = () => {
                 <h3>Initiative:</h3>
                 <h2>
               
-                <a className="conlink" href="/insights">Code Blue: Enact a Cease Fire in the Ukraine -  Sept 21, 2023!</a>
+                <Link className="conlink" href="/codeblue">Code Blue: Enact a Cease Fire in the Ukraine -  Sept 21, 2023!</Link>
                 </h2>
 
               </div>

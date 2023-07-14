@@ -506,6 +506,25 @@ footer {
   font-weight: 400;
 }
 
+.blue {
+  color: #5b92e5;
+  font-weight: bold;
+}
+
+li.codeblue {
+  list-style: decimal;
+margin-left: 30px;
+}
+ol.codeblue {
+padding-bottom: 20px;
+}
+.spacebot {
+  padding-bottom: 30px; 
+}
+#spacetop {
+  padding-top: 30px; 
+}
+
 /* Projects Area */
 
 /* Footer Area */

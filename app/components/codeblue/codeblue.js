@@ -73,7 +73,7 @@ const Codeblue = () => {
                         </div>
 
                         <div className="single__content-subhead">
-                            <h3 class="spacebot"><b>Get Peace Negotiations off Track 2 & on to Track 1!  Every day counts!</b></h3>
+                            <h3 class="spacebot">Get Peace Negotiations off Track 2 & on to Track 1!  Every day counts!</h3>
                         </div>
 
                         <div className="think__item">
@@ -90,7 +90,7 @@ const Codeblue = () => {
                         </div>
 
                          <div className="qoutes-box glossy__bg">
-                            <h3 class="spacebot"><b>The Path & Timeline to September 21st Cease Fire & Start of Peace Negotiations</b></h3>
+                            <h3 class="spacebot">The Path & Timeline to September 21st Cease Fire & Start of Peace Negotiations</h3>
 
                             <p>The Biggest Challenge:  There can be no peace negotiations without the involvement of the Ukraine and Russia, and yet, there is no trust between the parties.  They cannot sit down across a table and negotiate anytime soon.  Given this hurdle, here’s the <span class="blue">Code Blue</span> suggested path forward: </p> 
                             <ol class="codeblue">

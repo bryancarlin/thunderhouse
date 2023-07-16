@@ -43,7 +43,6 @@ const Footer = () => {
                             <Link className="conlink2" href="/think">How We Think</Link> &nbsp;&nbsp;&nbsp;
                             <Link className="conlink2" href="/work">How We Work</Link> &nbsp;&nbsp;&nbsp;
                             <Link className="conlink2" href="/who">Who We Are</Link> &nbsp;&nbsp;&nbsp;
-                            <Link className="conlink2" href="/insights">Insights</Link> &nbsp;&nbsp;&nbsp;
                             <Link className="conlink2" href="/legacy">Legacy</Link> &nbsp;&nbsp;&nbsp;
                             <Link className="conlink2" href="/competencies">Competencies</Link> &nbsp;&nbsp;&nbsp;
                             <Link className="conlink2" href="/contact">Contact</Link>

@@ -12,7 +12,6 @@ const Header = () => {
     // Set Menu Items
     const menuItems = [
         { label: "Home", link: "/" },
-        { label: "insights", link: "/insights" },
         { label: "legacy", link: "/legacy" },
         { label: "competencies", link: "/competencies" },
         { label: "contact", link: "/contact" },

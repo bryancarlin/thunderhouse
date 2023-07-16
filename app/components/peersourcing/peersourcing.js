@@ -45,7 +45,15 @@ const Peersourcing = () => {
                     <div className="single__content other__fade-in">
                         <h1>PeerSourcing:  </h1>
 
-                        
+                        <div className="qoutes-box glossy__bg_quote" id="shortbox">
+                                    <h3>Insight:</h3>
+                                    <h2  id="nomarginbot">
+                                    “Tactics without Strategy is the noise before defeat.”
+                                    </h2>
+
+                                    <p>- Sun Tzu</p>
+                                </div> 
+
 
                         <div className="single__content-subhead">
                         
@@ -53,13 +61,7 @@ const Peersourcing = () => {
                              
                          </div>  
                        
-                                <div className="qoutes-box glossy__bg_quote" id="shortbox">
-                                    <h2>
-                                    “Strategy without tactics is the slowest route to victory”
-                                    </h2>
-
-                                    <p>- Sun Tzu</p>
-                                </div> 
+                               
                            
                          <div className="single__content-subhead">   
                                 <p ><b>PeerSourcing empowers target audiences to be co-creators at the heart of the communications process. It enhances, not replaces human strategists.</b></p>
@@ -93,13 +95,15 @@ const Peersourcing = () => {
                                 <h3>PeerSourcing Is Market Ready for Pharma and Life Sciences </h3> 
 
                                 <p>PeerSourcing has been developed for Pharma sector and Life Sciences industry, specifically to influence the behavior of Healthcare Professionals (HCPs) where the need is most obvious.  The R&D and beta testing over a five-year period resulted in a repeat sale of two pilot tests for a major Pharma client.  
-PeerSourcing delivers a first mover competitive edge, and currently has no direct competition.</p>
+                                    PeerSourcing delivers a first mover competitive edge, and currently has no direct competition.</p>
 
-                                <p>The current platform for Pharma can be extended to other categories of Life Sciences, e.g. Diagnostics, Medical Devices, Oral Care, etc. with the target audience being HCPs.  The next extension would be the Patient target audience both HCPs to Patients/Caregivers and Pharma directly to Patients/Caregivers. 
-PeerSourcing delivers an AI generated Communications Toolbox within 6 weeks of study approval. </p>  
+                                                                    <p class="spacebot">The current platform for Pharma can be extended to other categories of Life Sciences, e.g. Diagnostics, Medical Devices, Oral Care, etc. with the target audience being HCPs.  The next extension would be the Patient target audience both HCPs to Patients/Caregivers and Pharma directly to Patients/Caregivers. 
+                                    PeerSourcing delivers an AI generated Communications Toolbox within 6 weeks of study approval. </p>  
 
-                                
-                                <h3>The Way Forward…</h3>
+                             </div>
+
+                             <div className="qoutes-box glossy__bg">   
+                                <h3 class="spacebot">The Way Forward…</h3>
 
                                 <p><b>PeerSourcing is extendable to other industries</b> starting with B2B high tech, e.g. Computer Science, FinTech, CyberTech, Enterprise Software, etc. and to Political Campaigns for candidates and issues. </p>
 
@@ -107,11 +111,13 @@ PeerSourcing delivers an AI generated Communications Toolbox within 6 weeks of s
 
                                 <p><b>Third-party to First-party Respondents:</b> PeerSourcing can transition from currently third-party respondent recruiting to marketer first-party data as the source of respondents. </p>
 
+                            </div>
+
+                            <div className="single__content-subhead"> 
                                 <p>For more information on PeerSourcing and ThunderHouse, please contact Art Tauder by email art@thunderhouse.org or by phone at 203 451-2699.  </p>
+                            </div>
 
 
-
-                        </div>
 
                     </div>
 

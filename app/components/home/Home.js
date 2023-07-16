@@ -56,17 +56,17 @@ const Home = () => {
               </h1>
               
 
-              <div className="qoutes-box glossy__bg">
+              <div className="qoutes-box glossy__bg_quote">
                 <h3>Insight:</h3>
                 <h2>
               
-                <Link className="conlink" href="/insights">"Thinking Big Makes the Impossible Possible”</Link>
+                "Thinking Big Makes the Impossible Possible”
                 </h2>
 
                 <p>- Pfizer CEO Albert Bourla</p>
               </div>
 
-              <div className="qoutes-box glossy__bg_quote" id="quote-space">
+              <div className="qoutes-box glossy__bg" id="quote-space">
                 <h3>Initiative:</h3>
                 <h2>
               

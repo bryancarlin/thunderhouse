@@ -45,6 +45,16 @@ const Codeblue = () => {
                     <div className="single__content other__fade-in">
                         <h1>Thinking Big:  </h1>
 
+                        <div className="qoutes-box glossy__bg_quote">
+                            <h3>Insight:</h3>
+                            <h2 id="nomarginbot">
+                        
+                            "Thinking Big Makes the Impossible Possible”
+                            </h2>
+
+                            <p>- Pfizer CEO Albert Bourla</p>
+                        </div>
+
                         <div className="single__content-subhead">
                             <h3>
                             What’s Possible in the Ukraine Conflict?<br />A September 21st Cease Fire to Mark Start of Peace Negotiations
@@ -58,12 +68,17 @@ const Codeblue = () => {
                         </div>
                         <div className="think__item">
                             <div className="think__item-content single__content-subhead">
-                            <p >Every day there are hundreds of deaths in the Ukraine and countless destruction in a war that no one can win.  The battlefield looks more and more like World War I with 21st century armaments guided by 21st century technology.  The conversation of our elected politicians and the media is dominated by death, destruction and armaments. There is no path to peace.  This war was conceived by human and, like all wars, can be ended by humans.  The path to a just, sustainable peace will be long and complex.  Let’s get started today!</p>
+                            <p > Tens of thousands of lives are being lost each month in the Ukraine conflict…tens of thousands of families are being heart broken…tens of billions of dollars are going up in smoke with the destruction of assets and the disruption of lives, infrastructure and businesses.   The battlefield is mired down, looking more and more like World War I with 21st century armaments guided by 21st century technology.  The speeches of our elected politicians and the media coverage are dominated by death, destruction and armaments. There is no path to peace… virtually no discussion of a negotiated peace.  This war was conceived by humans and can be ended by humans. 
+                            &nbsp;<b>Let’s get started today!</b></p>
+
+                            <p >The continued political and military support of the Ukrainian government by the U.S. & NATO is totally justified and not in question.   The Russian aggression has been condemned twice by over 140 countries by United Nations declarations. </p> 
+                            
+                            <p >Look at the Great Seal of the United States…as displayed on the podium whenever President Biden speaks.  The eagle has the arrows of war in its right hand and the olive branch of peace in its left.  And notice that our Eagle’s head is turned towards the olive branch of peace. This is our <span class="blue">Code Blue</span> plea:  
+                             &nbsp;<b>Turn your focus towards peace.</b></p>
 
                                 
-                                <p >The continued military support of the Ukrainian government by the U.S. & NATO is totally justified and not in question.   The Russian aggression has been condemned twice by over 140 countries by United Nations declarations.  Securing peace does not contradict our extensive military support.  We just need some more balance in our approach.</p>
-
-                                <p>Look at the Great Seal of the United States…so often displayed on the podium whenever President Biden speaks.  The eagle has the arrows of war in its right hand and the olive branch of peace in its left.  And notice that our Eagle’s head is turned towards the olive branch of peace. This our <span class="blue">Code Blue</span> plea:  <b>Turn your focus towards peace.</b></p>
+                                
+                                 
                             </div>
 
                             <div className="think__item-image">
@@ -73,15 +88,15 @@ const Codeblue = () => {
                         </div>
 
                         <div className="single__content-subhead">
-                            <h3 class="spacebot">Get Peace Negotiations off Track 2 & on to Track 1!  Every day counts!</h3>
+                            <h3 class="spacebot">Get Peace Negotiations off Track 2 & on to Track1!  Every day counts!</h3>
                         </div>
 
                         <div className="think__item">
                             <div className="think__item-content single__content-subhead">
                                 
-                                <p>On Track 2, traditional back channel peace talks are going on and quietly being reported by the media:  a June conference of peace organizations in Vienna, a meeting in Copenhagen in which Zelenskyy sought the support of “neutral” nations, and even talks between “former” U.S. diplomats and Russian representatives.    Let’s start down Track 1, the mainstream:  formal negotiations by credentialed diplomats of major countries under the auspices of the United Nations.   </p>
+                                <p>Traditional back channel talks, labeled “Track 2,” are going on: a June conference of peace organizations in Vienna, a meeting in Copenhagen in which Zelensky sought the support of “neutral” nations, and even talks between “former” U.S. diplomats and Russian representatives.    Let’s start down Track 1:  Negotiations by the credentialed diplomats of major countries under the auspices of the United Nations.   </p>
 
-                                <p class="spacebot">Sure... the United Nations has low credibility because of its structure and governing rules; however, it is what we have in place and functioning today.   Based on its charter and declared mission,  the UN clearly is the right entity to call for a Cease Fire and to establish a process for a just, sustainable Peace.  In September 2022, the UN Department of Political & Peacebuilding Affairs (DPPA) published a 69-page Guidance on Mediation of Ceasefires.   It’s down in black and white on how to proceed to a Cease Fire… and <b>September 21st is officially UN International Peace Day…the stage is all set for at least a preliminary Cease Fire!</b></p> 
+                                <p class="spacebot">Sure…the United Nations has low credibility because of its structure and governing rules; however, it is in place and functioning today.   Given its charter and mission,  the UN clearly is the right entity to call for a Cease Fire and to establish a negotiating process for a just, sustainable Peace.  In September 2022, the UN Department of Political & Peacebuilding Affairs (DPPA) published a 69-page Guidance on Mediation of Ceasefires.   It’s down in black and white on how to proceed to a Cease Fire…and September 21st is officially UN International Peace Day.  <b>The stage is set for at least a preliminary Cease Fire!</b></p> 
                             </div>
                             <div className="think__item-image">
                                 <img src="/images/dppa.jpg" alt="DPPA" />
@@ -89,46 +104,53 @@ const Codeblue = () => {
                              
                         </div>
 
-                         <div className="qoutes-box glossy__bg">
-                            <h3 class="spacebot">The Path & Timeline to September 21st Cease Fire & Start of Peace Negotiations</h3>
 
-                            <p>The Biggest Challenge:  There can be no peace negotiations without the involvement of the Ukraine and Russia, and yet, there is no trust between the parties.  They cannot sit down across a table and negotiate anytime soon.  Given this hurdle, here’s the <span class="blue">Code Blue</span> suggested path forward: </p> 
+                        <div className="think__item" id="spacetop">
+                            <div className="think__item-image">
+                             <img src="/images/cbpin.jpg" alt="Code Blue" />
+                            </div>
+                            <div className="think__item-content single__content-subhead" id="nomargin">
+                                <p><b><span class="blue">Code Blue</span> Mission:</b><br />
+                                Stimulate Discussion and Action for a Peaceful Resolution of the Ukraine Conflict.</p>
+
+                                <p><b><span class="blue">Code Blue</span> Strategy: </b> <br /> 
+                                Use Digital, Viral and Influencer Marketing Techniques to Promote Peace</p>
+
+                                <p><b><span class="blue">Code Blue</span> Media:</b><br />
+                                Make it Simple & Easy!  Wear a <span class="blue">Code Blue</span> Dove Pin to Show Your Support for Peace.</p>
+
+                                <p><b><span class="blue">Code Blue</span> Team:</b><br />
+                                Seed Code Blue Dove Pins with Highly Visible Influencers & Organizations; 
+                                Spread the Wearing of Dove Pins Virally to Public</p>
+                                        
+
+                                <p class="spacebot"><span class="blue">Code Blue</span>  is a not-for-profit Initiative of ThunderHouse LLC. </p>
+                            </div>
+
+                            
+                        </div>
+
+                         <div className="qoutes-box glossy__bg">
+                            <h3 class="spacebot">Path & Timeline to September 21st Cease Fire & Start of Peace Negotiations</h3>
+
+                            <p>There can be no peace negotiations without the involvement of the Ukraine and Russia.  And yet, there is no trust between the parties; they simply cannot sit down across a table for direct negotiations anytime soon.  Given this hurdle, here’s the <span class="blue">Code Blue</span> suggested path forward:   </p> 
+                            
                             <ol class="codeblue">
-                            <li class="codeblue"><b>The UN Secretary General expresses a willingness to serve as the Chief Mediator</b>, thereby mitigating the obvious personal and national self-interest of previous failed third-party efforts to start peace negotiations. There is precedent for this action without the need for a UN debate or vote. During the Covid-19 pandemic, the Secretary General unilaterally called for a global cease fire on September 21st – The UN International Peace Day. </li>
-                            <li class="codeblue"><b>Formation of a Balanced UN Peace Advisory Committee: </b> The Chief Mediator calls for the formation of a UN Peace Advisory Committee to provide counsel in the peace process. Both the Ukraine and Russia are asked to nominate as their surrogates an equal number of nations within 30 days to serve on a Peace Advisory Committee with balanced representation from Ukrainian allies and those nations that abstained from condemning Russia, e.g.  China, India, & Brazil.  The Mission: Draft the Guidelines for Peace in the Ukraine facilitated by the United Nations DPPA and submit the negotiated terms for approval by the Ukraine & Russia.</li>
-                            <li class="codeblue"><b>The UN Chief Mediator announces the formation and mission of Peace Advisory Committee and calls for a Preliminary Cease Fire on September 21</b> to mark this step forward to Peace. </li>  
-                            <li class="codeblue"><b>By Yearend, The Peace Advisory Committee Issues First Draft Guidelines</b> for a Definitive Cease Fire & a Just, Sustainable Peace based on the principles of the UN Charter and published Guidance on Mediation of Ceasefires.</li>
+                                <li class="codeblue"><b>The UN Secretary General expresses a willingness to serve as the Chief Mediator.</b> The Secretary General can take this action mitigating third-party self interest without a UN debate or vote.  He did so for the Covid-19 pandemic.  On September 21st, 2020 (UN International Peace Day), he called for a global cease fire for all ongoing conflicts.  </li>
+                                <li class="codeblue"><b>Formation of a Balanced UN Peace Advisory Committee:</b>  The Chief Mediator calls for the formation of a UN Peace Advisory Committee in the next 30 days to provide counsel for the peace negotiations.   Russia and the Ukraine are asked to nominate an equal number of nations as their surrogates for the Peace Advisory Committee, a balanced representation of Ukrainian allies and nations that abstained from condemning Russia, e.g.  China, India, & Brazil.  The Mission: Draft the Guidelines for Peace for approval by the Ukraine & Russia.</li>
+                                <li class="codeblue"><b>The UN Chief Mediator announces the formation of the Peace Advisory Committee and calls for a Preliminary Cease Fire on September 21</b> to mark this step forward to Peace. </li>  
+                                <li class="codeblue"><b>By Year end, The Peace Advisory Committee Issues First Draft Guidelines</b> for a Definitive Cease Fire & a Just, Sustainable Peace based on the principles of the UN Charter and published Guidance on Mediation of Ceasefires.</li>
                             </ol>
+                            
                             <p ><b>Challenging:  Yes.   Impossible:  No!</b></p>
 
                             
 
                         </div>
 
-                        <div className="think__item" id="spacetop">
-                            <div className="think__item-content single__content-subhead">
-                            <p><b><span class="blue">Code Blue</span> Mission:</b><br />
-                            Stimulate Discussion and Action for a Peaceful Resolution of the Ukraine Conflict.</p>
-
-                            <p><b><span class="blue">Code Blue</span> Strategy: </b> <br /> 
-                            Use Digital, Viral and Influencer Marketing Techniques to Promote Peace</p>
-
-                            <p><b><span class="blue">Code Blue</span> Media:</b><br />
-                            Make it Simple & Easy!  Wear a Code Blue Dove Pin to Show Your Support for Peace.</p>
-
-                            <p><b><span class="blue">Code Blue</span> Team:</b><br />
-                            Seed Code Blue Dove Pins with Highly Visible Influencers & Organizations; 
-                            Spread the Wearing of Dove Pins Virally to Public</p>
-                                    
-
-                            <p><b>What Can You Do?   Click Here to be a part of the <span class="blue">Code Blue Team</span>.</b></p>
-                            </div>
-
-                            <div className="think__item-image">
-                            <img src="/images/cbpin.jpg" alt="Code Blue" />
-                            </div>
+                        <div className="single__content-subhead">
+                            <p><b>What Can You Do?   <a href="" className="conlink">Click Here</a> to be a part of the <span class="blue">Code Blue</span> Team</b></p>
                         </div>
-
                     </div>
                 </div>
             </div>

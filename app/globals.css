@@ -903,7 +903,7 @@ a.conlink2 {
   }
 
   .hero__images-wrapper {
-    min-height: 400px;
+    min-height: 0px;
   }
 
   .process {
@@ -1123,7 +1123,7 @@ a.conlink2 {
   }
 
   .hero__images-wrapper {
-    margin-top: 100px;
+    margin-top: 0px;
   }
 
   .single__content h1,

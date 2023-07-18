@@ -130,7 +130,7 @@ const Codeblue = () => {
                             
                         </div>
 
-                         <div className="qoutes-box glossy__bg">
+                         <div className="qoutes-box glossy__bg" id="spacetop">
                             <h3 class="spacebot">Path & Timeline to September 21st Cease Fire & Start of Peace Negotiations</h3>
 
                             <p>There can be no peace negotiations without the involvement of the Ukraine and Russia.  And yet, there is no trust between the parties; they simply cannot sit down across a table for direct negotiations anytime soon.  Given this hurdle, here’s the <span class="blue">Code Blue</span> suggested path forward:   </p> 

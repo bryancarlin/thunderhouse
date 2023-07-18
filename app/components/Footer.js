@@ -16,7 +16,7 @@ const Footer = () => {
                         <Link href="/codeblue" class="whitelink">
                         <Blog
                             title="CodeBlue"
-                            imgUrl="/images/cb.png"
+                            imgUrl="/images/cb.jpg"
                             imgAlt="CodeBlue"
                         />
                         </Link>
@@ -24,7 +24,7 @@ const Footer = () => {
                         <Link href="/peersourcing" class="whitelink">
                         <Blog
                             title="PeerSourcing"
-                            imgUrl="/images/ps.png"
+                            imgUrl="/images/ps.jpg"
                             imgAlt="PeerSourcing"
                         />
                         </Link>

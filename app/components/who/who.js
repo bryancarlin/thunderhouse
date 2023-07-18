@@ -215,10 +215,9 @@ const Who = () => {
                             {/* Single Team */}
                             <div className="team">
                                 <div className="team__heading">
-                                    <h4>Anthony G.</h4>
+                                    <h4>Anthony G. (Tony) Miller</h4>
                                     <h5>
-                                        (Tony) Miller - Managing Partner,
-                                        ThunderHouse Canada
+                                         Managing Partner, ThunderHouse Canada
                                     </h5>
                                 </div>
 

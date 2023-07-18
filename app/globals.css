@@ -485,8 +485,7 @@ footer {
 }
 
 .single__project:hover .single__project-image img {
-  transform: translate3d(0px, 0px, 0px) scale3d(1.2, 1.2, 1) rotateX(0deg)
-    rotateY(0deg) rotateZ(-3deg) skew(0deg, 0deg);
+  
   transition: transform 4.5s ease;
   -webkit-transition: transform 4.5s ease;
   -moz-transition: transform 4.5s ease;
@@ -818,6 +817,10 @@ a.conlink2 {
   -o-border-radius: 20px;
   box-shadow: 3px 4px 30px 2px rgba(146, 226, 243, 0.25);
 }
+
+#seal {height: 300px;}
+
+#centertext {text-align: center;}
 
 .think__item-image img {
   border-radius: 20px;

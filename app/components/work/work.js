@@ -66,7 +66,7 @@ const Work = () => {
                   <h3>The Three Dimensional Approach</h3>
                   <p>
                     ThunderHouse views the innovator's challenge in three
-                    dimensionsl:{" "}
+                    dimensions:{" "}
                     <b>The Product, The Audience and The Marketplace. &nbsp;</b>
                     With a clear vision of success in hand, ThunderHouse helps
                     Clients formulate positionings, strategies and action plans.

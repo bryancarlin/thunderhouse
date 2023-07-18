@@ -43,7 +43,7 @@ const Peersourcing = () => {
                 <div className="other__hero">
                     {/* Single Content */}
                     <div className="single__content other__fade-in">
-                        <h1>PeerSourcing:  </h1>
+                        <h1>PeerSourcing </h1>
 
                         <div className="qoutes-box glossy__bg_quote" id="shortbox">
                                     <h3>Insight:</h3>

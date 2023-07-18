@@ -43,7 +43,7 @@ const Codeblue = () => {
                 <div className="other__hero">
                     {/* Single Content */}
                     <div className="single__content other__fade-in">
-                        <h1>Thinking Big:  </h1>
+                        <h1>Code Blue </h1>
 
                         <div className="qoutes-box glossy__bg_quote">
                             <h3>Insight:</h3>
@@ -61,15 +61,15 @@ const Codeblue = () => {
                             </h3>
                              
                             
-                            <p class="spacebot"><b><span class="blue">Code Blue</span> is the Hospital Signal for Emergency…Lives are at stake!</b></p>
+                            <p ><b><span class="blue">Code Blue</span> is the Hospital Signal for Emergency…Lives are at stake!</b></p>
 
-                            
+                            <p class="spacebot"> Tens of thousands of lives are being lost each month in the Ukraine conflict…tens of thousands of families are being heart broken…tens of billions of dollars are going up in smoke with the destruction of assets and the disruption of lives, infrastructure and businesses.   The battlefield is mired down, looking more and more like World War I with 21st century armaments guided by 21st century technology.  The speeches of our elected politicians and the media coverage are dominated by death, destruction and armaments. There is no path to peace… virtually no discussion of a negotiated peace.  This war was conceived by humans and can be ended by humans. 
+                            &nbsp;<b>Let’s get started today!</b></p>
                             
                         </div>
                         <div className="think__item">
                             <div className="think__item-content single__content-subhead">
-                            <p > Tens of thousands of lives are being lost each month in the Ukraine conflict…tens of thousands of families are being heart broken…tens of billions of dollars are going up in smoke with the destruction of assets and the disruption of lives, infrastructure and businesses.   The battlefield is mired down, looking more and more like World War I with 21st century armaments guided by 21st century technology.  The speeches of our elected politicians and the media coverage are dominated by death, destruction and armaments. There is no path to peace… virtually no discussion of a negotiated peace.  This war was conceived by humans and can be ended by humans. 
-                            &nbsp;<b>Let’s get started today!</b></p>
+                            
 
                             <p >The continued political and military support of the Ukrainian government by the U.S. & NATO is totally justified and not in question.   The Russian aggression has been condemned twice by over 140 countries by United Nations declarations. </p> 
                             
@@ -81,7 +81,7 @@ const Codeblue = () => {
                                  
                             </div>
 
-                            <div className="think__item-image">
+                            <div className="think__item-image" id="seal">
                                 <img src="/images/seal.jpg" alt="US Seal" />
                             </div>
                              
@@ -96,10 +96,10 @@ const Codeblue = () => {
                                 
                                 <p>Traditional back channel talks, labeled “Track 2,” are going on: a June conference of peace organizations in Vienna, a meeting in Copenhagen in which Zelensky sought the support of “neutral” nations, and even talks between “former” U.S. diplomats and Russian representatives.    Let’s start down Track 1:  Negotiations by the credentialed diplomats of major countries under the auspices of the United Nations.   </p>
 
-                                <p class="spacebot">Sure…the United Nations has low credibility because of its structure and governing rules; however, it is in place and functioning today.   Given its charter and mission,  the UN clearly is the right entity to call for a Cease Fire and to establish a negotiating process for a just, sustainable Peace.  In September 2022, the UN Department of Political & Peacebuilding Affairs (DPPA) published a 69-page Guidance on Mediation of Ceasefires.   It’s down in black and white on how to proceed to a Cease Fire…and September 21st is officially UN International Peace Day.  <b>The stage is set for at least a preliminary Cease Fire!</b></p> 
+                                <p class="spacebot">Sure... the United Nations has low credibility because of its structure and governing rules; however, it is in place and functioning today.   Given its charter and mission,  the UN clearly is the right entity to call for a Cease Fire and to establish a negotiating process for a just, sustainable Peace.  In September 2022, the UN Department of Political & Peacebuilding Affairs (DPPA) published a 69-page Guidance on Mediation of Ceasefires.   It’s down in black and white on how to proceed to a Cease Fire…and September 21st is officially UN International Peace Day.  <b>The stage is set for at least a preliminary Cease Fire!</b></p> 
                             </div>
                             <div className="think__item-image">
-                                <img src="/images/dppa.jpg" alt="DPPA" />
+                                <img src="/images/un.jpg" alt="United Nations" />
                             </div>
                              
                         </div>
@@ -142,14 +142,14 @@ const Codeblue = () => {
                                 <li class="codeblue"><b>By Year end, The Peace Advisory Committee Issues First Draft Guidelines</b> for a Definitive Cease Fire & a Just, Sustainable Peace based on the principles of the UN Charter and published Guidance on Mediation of Ceasefires.</li>
                             </ol>
                             
-                            <p ><b>Challenging:  Yes.   Impossible:  No!</b></p>
+                            <h3 id="centertext">Challenging:  Yes.   Impossible:  No!</h3>
 
                             
 
                         </div>
 
                         <div className="single__content-subhead">
-                            <p><b>What Can You Do?   <a href="" className="conlink">Click Here</a> to be a part of the <span class="blue">Code Blue</span> Team</b></p>
+                            <h3>What Can You Do?   <a href="" className="conlink">Click Here</a> to be a part of the <span class="blue">Code Blue</span> Team</h3>
                         </div>
                     </div>
                 </div>

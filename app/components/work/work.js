@@ -77,7 +77,7 @@ const Work = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-1.jpg" alt="Think" />
+                  <img src="/images/work1.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}
@@ -101,7 +101,7 @@ const Work = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-2.jpg" alt="Think" />
+                  <img src="/images/work2.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}
@@ -123,7 +123,7 @@ const Work = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-3.jpg" alt="Think" />
+                  <img src="/images/work3.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}

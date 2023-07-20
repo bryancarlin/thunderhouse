@@ -78,7 +78,7 @@ const Think = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-1.jpg" alt="Think" />
+                  <img src="/images/think1.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}
@@ -106,7 +106,7 @@ const Think = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-2.jpg" alt="Think" />
+                  <img src="/images/think2.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}
@@ -129,7 +129,7 @@ const Think = () => {
                 </div>
 
                 <div className="think__item-image">
-                  <img src="/images/think-3.jpg" alt="Think" />
+                  <img src="/images/think3.jpg" alt="Think" />
                 </div>
               </div>
               {/* Single Item */}

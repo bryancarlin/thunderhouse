@@ -363,6 +363,7 @@ footer {
 }
 
 .hero__images-wrapper {
+  display: none;
   position: relative;
   z-index: 100;
   min-height: 750px;

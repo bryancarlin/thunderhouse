@@ -51,8 +51,7 @@ const Home = () => {
           <div className="hero">
             <div className="hero__content">
               <h1>
-                Bringing Significant Innovations to Fruition via Communications...
-                <span>Faster & More Cost Effectively.</span>
+                Bringing Significant Innovations to Fruition via Communications...<br /><span>Faster & More Cost Effectively.</span>
               </h1>
               
 

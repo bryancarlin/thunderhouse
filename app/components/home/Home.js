@@ -51,8 +51,8 @@ const Home = () => {
           <div className="hero">
             <div className="hero__content">
               <h1>
-                Bringing Significant Innovations to Fruition via Communications
-                <span>... Faster & More Cost Effectively.</span>
+                Bringing Significant Innovations to Fruition via Communications...
+                <span>Faster & More Cost Effectively.</span>
               </h1>
               
 
@@ -70,7 +70,7 @@ const Home = () => {
                 <h3>Initiative:</h3>
                 <h2>
               
-                <Link className="conlink" href="/codeblue">Code Blue: Enact a Cease Fire in the Ukraine -  Sept 21, 2023!</Link>
+                <Link className="conlink" href="/codeblue">Code Blue: Declare a Cease Fire in the Ukraine -  Sept 21, 2023!</Link>
                 </h2>
 
               </div>

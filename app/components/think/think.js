@@ -85,8 +85,8 @@ const Think = () => {
 
               <div className="qoutes-box glossy__bg_quote">
                 <h2>
-                  “Our problem is not that we aim too high and miss, But we aim
-                  too low and hit.”
+                  “Our problem is not that we aim too high and miss,<br /> 
+                  But we aim too low and hit.”
                 </h2>
 
                 <p>- Aristotle 384-322 BC</p>
@@ -117,7 +117,7 @@ const Think = () => {
                   <h3>What is Sustainable Growth?</h3>
                   <p>
                     The term “Sustainable” is most frequently associated with
-                    ESG initiatives: Social Environmental, Social and
+                    ESG initiatives: Social, Environmental and
                     Governance. ThunderHouse defines “sustainability” in a
                     broader context: the ability of an organization to sustain
                     itself over time financially and security-wise as as well as

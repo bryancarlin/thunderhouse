@@ -847,7 +847,7 @@ a.conlink2 {
 #shortbox {padding: 25px 45px;}
 
 .qoutes-box h2 {
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .qoutes-box h3 {
@@ -900,6 +900,14 @@ a.conlink2 {
   .other__white-bg {
     left: -30%;
   }
+}
+
+@media (max-width: 1115px) {
+  .hero__content h1 {
+    font-size:50px;
+    margin-bottom: 30px;
+  }
+
 }
 
 @media (max-width: 1199.98px) {

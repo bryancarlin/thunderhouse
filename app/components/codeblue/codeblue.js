@@ -149,7 +149,7 @@ const Codeblue = () => {
                         </div>
 
                         <div className="single__content-subhead">
-                            <h3>What Can You Do?   <a href="" className="conlink">Click Here</a> to be a part of the <span class="blue">Code Blue</span> Team</h3>
+                            <h3>What Can You Do?   <a href="https://codeblueukr.org/" className="conlink" target="_blank">Click Here</a> to be a part of the <span class="blue">Code Blue</span> Team</h3>
                         </div>
                     </div>
                 </div>

@@ -56,7 +56,7 @@ const Home = () => {
               
 
               <div className="qoutes-box glossy__bg_quote">
-                <h3>Insight:</h3>
+                <h3>Inspiration:</h3>
                 <h2>
               
                 "Thinking Big Makes the Impossible Possible”

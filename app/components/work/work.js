@@ -65,7 +65,7 @@ const Work = () => {
                 <div className="think__item-content single__content-subhead">
                   <h3>Begin Work At the Frontend of Communications</h3>
                   <p> ThunderHouse starts with Market Understanding whether that market is for your product, candidate or idea.   Understanding requires knowledge of 1) Product/Candidate/issues, 2) the Audience(s) and 3) the behavioral environment often called the Marketplace.  Understanding, then naturally leads to an articulation of a Vision of Success and Basic Next Steps.   Once that Vision is clear and agreed to, the other elements of Strategy Development are addressed to achieve that Vision of Success.   Strategy forms the necessary foundation and guidance for Tactical implementation.</p>
-                  <p>ThunderHouse uses proven, visually engaging tools to facilitate collaboration, to sort through a multiplicity of possibilities and to expedite decision making.  For more detail on the frontend process and the Spectrum tool click here. </p>
+                  <p>ThunderHouse uses proven, visually engaging tools to facilitate collaboration, to sort through a multiplicity of possibilities and to expedite decision making.   </p>
                 </div>
 
                 <div className="think__item-image">

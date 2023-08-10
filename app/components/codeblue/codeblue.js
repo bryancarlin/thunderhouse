@@ -46,7 +46,7 @@ const Codeblue = () => {
                         <h1>Code Blue </h1>
 
                         <div className="qoutes-box glossy__bg_quote">
-                            <h3>Insight:</h3>
+                            <h3>Inspiration:</h3>
                             <h2 id="nomarginbot">
                         
                             "Thinking Big Makes the Impossible Possible”

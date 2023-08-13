@@ -88,7 +88,7 @@ const Codeblue = () => {
                         </div>
 
                         <div className="single__content-subhead">
-                            <h3 class="spacebot">Get Peace Negotiations off Track 2 & on to Track1!  Every day counts!</h3>
+                            <h3 class="spacebot">Get Peace Negotiations off Track 2 & on to Track 1!  Every day counts!</h3>
                         </div>
 
                         <div className="think__item">

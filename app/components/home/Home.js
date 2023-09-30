@@ -69,7 +69,7 @@ const Home = () => {
                 <h3>Initiative:</h3>
                 <h2>
               
-                <Link className="conlink" href="/codeblue">Code Blue: Declare a Cease Fire in the Ukraine -  Sept 21, 2023!</Link>
+                <Link className="conlink" href="/codeblue">Code Blue: Stop the Killing! ... Start the Peace Process!</Link>
                 </h2>
 
               </div>

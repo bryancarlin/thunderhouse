@@ -114,7 +114,7 @@ const Codeblue = () => {
                                 Stimulate Discussion and Action for a Peaceful Resolution of the Ukraine Conflict.</p>
 
                                 <p><b><span class="blue">Code Blue</span> Strategy: </b> <br /> 
-                                Use Digital, Viral and Influencer Marketing Techniques to Promote Peace.</p>
+                                Use Digital, Social and Influencer Marketing Techniques to Promote Peace.</p>
 
                                 <p><b><span class="blue">Code Blue</span> Media:</b><br />
                                 Make it Simple & Easy! Wear a <span class="blue">Code Blue</span> Dove Pin or Display our Dove logo anyway you choose to Show Your Support for Peace.</p>
@@ -124,7 +124,7 @@ const Codeblue = () => {
                                 Seed <span class="blue">Code Blue</span> Dove Pins with Highly Visible Influencers & Organizations; Spread the Wearing of Dove Pins and Display of Logo Images Virally to Public.</p>
                                         
 
-                                <p class="spacebot"><span class="blue">Code Blue</span>  is a not-for-profit Initiative of ThunderHouse LLC. </p>
+                                <p class="spacebot"><span class="blue">Code Blue</span>  is a not-for-profit Initiative of ThunderHouse <b>LLC.</b> </p>
                             </div>
 
                             
@@ -136,9 +136,18 @@ const Codeblue = () => {
                             <p>Given this hurdle, here’s the <span class="blue">Code Blue</span> suggested path forward: </p> 
                             
                             <ol class="codeblue">
-                                <li class="codeblue"><b>During UN Week,  Secretary General Antònio Guterres declared Peace in Ukraine as the #1 Global Priority and expressed a willingness for the UN to serve as a Facilitator.</b>  That’s a step closer to the UN initiating action.</li>
-                                <li class="codeblue"><b>Formation of a Balanced UN Peace Acceleration Committee (PAX) to provide counsel on the peace process. </b>  PAX will have a balanced representation of nations that abstained from condemning Russia, e.g. China, India, & Brazil and Ukraine allies.  Both combatants will have the opportunity to provide their rationale for the conflict.  The Mission:  Map out a path to peace and an endgame to this war, possibly starting with an “apolitical” humanitarian action like resetting the Black Sea Initiative.  And possibly followed with a path to a second “apolitical” religious observance, a Temporary Ceasefire for Christmas (or Easter at the latest).</li>
-                                <li class="codeblue"><b>By Year end, PAX Issues A Path Forward for a Definitive Cease Fire & A Just, Sustainable Peace</b> based on principles in the UN Charter,  their published Guidance on Mediation of Ceasefires and A New Agenda for Peace. </li>
+
+                            <li class="codeblue"><b>Have the UN step-up its facilitation</b> of the peace process to end the conflict in Ukraine. Move the discussions from back channels to the main track of diplomacy.</li>
+
+                            <li class="codeblue"><b>Reset the 2022 Black Sea Grain Initiative</b> as first stepping stone in the path to peace.
+                                Agreements & implementation in place; concessions on political issues unnecessary.</li>
+
+                                <li class="codeblue"><b>Encourage Temporary Ceasefires/Pauses</b> for Religious Holiday Observances.
+                                Killing & destruction can stop without resolving contentious territorial issues.</li>
+
+                                <li class="codeblue"><b></b>Seek a Preliminary Ceasefire by Yearend</b> to start the negotiating and compromising necessary for a just and sustainable peace based on the published principles of the UN
+                                Charter, the UN Guidance on Mediation of Ceasefires &amp; the UN New Agenda for Peace.</li>
+
                             </ol>
                             
                             <h3 id="centertext">A Daunting Challenge:  Yes.   Impossible:  No!</h3>

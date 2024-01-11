@@ -137,16 +137,13 @@ const Codeblue = () => {
                             
                             <ol class="codeblue">
 
-                            <li class="codeblue"><b>Have the UN step-up its facilitation</b> of the peace process to end the conflict in Ukraine. Move the discussions from back channels to the main track of diplomacy.</li>
+                                <li class="codeblue"><b>Have the UN step-up its facilitation</b> of the peace process to end the conflict in Ukraine. Move the discussions from back channels to the main track of diplomacy.</li>
 
-                            <li class="codeblue"><b>Reset the 2022 Black Sea Grain Initiative</b> as first stepping stone in the path to peace.
-                                Agreements & implementation in place; concessions on political issues unnecessary.</li>
+                                <li class="codeblue"><b>Reset the 2022 Black Sea Grain Initiative</b> as first stepping stone in the path to peace. Agreements & implementation in place; concessions on political issues unnecessary.</li>
 
-                                <li class="codeblue"><b>Encourage Temporary Ceasefires/Pauses</b> for Religious Holiday Observances.
-                                Killing & destruction can stop without resolving contentious territorial issues.</li>
+                                <li class="codeblue"><b>Encourage Temporary Ceasefires/Pauses</b> for Religious Holiday Observances. Killing & destruction can stop without resolving contentious territorial issues.</li>
 
-                                <li class="codeblue"><b></b>Seek a Preliminary Ceasefire by Yearend</b> to start the negotiating and compromising necessary for a just and sustainable peace based on the published principles of the UN
-                                Charter, the UN Guidance on Mediation of Ceasefires &amp; the UN New Agenda for Peace.</li>
+                                <li class="codeblue"><b>Seek a Preliminary Ceasefire by Yearend</b> to start the negotiating and compromising necessary for a just and sustainable peace based on the published principles of the UN Charter, the UN Guidance on Mediation of Ceasefires &amp; the UN New Agenda for Peace.</li>
 
                             </ol>
                             
